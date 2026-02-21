@@ -6,6 +6,8 @@ Depois de ouvir muita reclamação da parte dele de sites de conversão de arqui
 
 A ideia é simples: abrir, escolher as imagens, converter e seguir o trabalho. Sem depender de upload em site, sem dor de cabeça e com mais controle do seu fluxo. :rocket:
 
+https://prnt.sc/7KU8qNaWbLZ4
+
 ## O que o app resolve
 
 - Converte imagens para formatos mais usados no dia a dia de edição.
