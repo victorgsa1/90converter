@@ -6,7 +6,7 @@ Depois de ouvir muita reclamação da parte dele de sites de conversão de arqui
 
 A ideia é simples: abrir, escolher as imagens, converter e seguir o trabalho. Sem depender de upload em site, sem dor de cabeça e com mais controle do seu fluxo. :rocket:
 
-https://prnt.sc/7KU8qNaWbLZ4
+<img width="1919" height="1030" alt="image" src="https://github.com/user-attachments/assets/0f421230-c4f0-4c70-babf-a2f43bd84d0c" />
 
 ## O que o app resolve
 
